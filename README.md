@@ -24,9 +24,6 @@ The tool was created with standard Python 3.12 library. It imports the following
 - Then it delivers a teaching component by displaying what the question was, what the answer should be, and what the incorrect answer was.
 - The author's info is displayed.
 - All user's input is stripped of whitespaces and converted to lower case, to minimise the risk of incorrect: scoring and/or saving results' data.
-## Screenshots
-
-![App Execution Screenshots](https://docs.google.com/document/d/1Ke58fMFKJCdEJLLhBmQ3ersTo8nwgd0_BUIoioSCwuU/edit?usp=sharing)
 
 
 ## Roadmap
