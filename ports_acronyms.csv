@@ -1,0 +1,287 @@
+port_acronym; value
+Based on i.a. nmap's top 20 most commonly opened ports, CompTIA CySA+ exam objectives and CySA+ Self-Paced Study Guide CS0-002, 
+CompTIA Network+ Common Ports youtube video by Professor Messer
+TCP 80; HTTP
+TCP 23; Telnet
+TCP 443; HTTPS
+TCP 20; FTP
+TCP 21; FTP
+TCP 22; SSH
+TCP 25; SMTP
+TCP 587; SMTPS 
+TCP 3389; RDP
+TCP 88; Kerberos
+TCP 110; POP3
+TCP 445; SMB
+TCP 139; NetBIOS-SSN
+TCP 143; IMAP
+TCP 53; DNS
+TCP 135; MSRPC
+TCP 389; LDAP 
+TCP 636; LDAPS 
+TCP 1433; MS-SQL 
+TCP 3306; MySQL
+TCP 1521; Oracle Net
+TCP 5060; SIP
+TCP 5061; SIP
+TCP 8080; HTTP
+TCP 1723; PPTP
+TCP 111; RPCBind
+TCP 995; POP3S
+TCP 993; IMAPS
+TCP 5900; VNC
+UDP 631; IPP
+UDP 161; SNMP
+UDP 137; NETBIOS-NS
+UDP 123; NTP
+UDP 138; NETBIOS-DGM
+UDP 1434; MS-SQL
+UDP 445; SMB
+UDP 135; MSRPC
+UDP 67; DHCPS
+UDP 53; DNS
+UDP 139; NETBIOS-SSN
+UDP 500; ISAKMP
+UDP 68; DHCPC
+UDP 520; RIP
+UDP 1900; UPNP
+UDP 4500; nat-t-ike
+UDP 514; Syslog
+UDP 162; SNMPTrap
+UDP 69; TFTP
+AAR; After-Action Report
+ACL; Access Control List
+AES; Advanced Encryption Standard
+ALE; Annual Loss Expectancy
+API; Application Programming Interface
+APT; Advanced Persistent Threat
+ARO; Annual Rate of Occurrence
+ARP; Address Resolution Protocol
+ASLR; Address Space Layout Randomization
+ASM; Attack Surface Management
+ATT&CK; Adversarial Tactics, Techniques, and Common Knowledge
+AUP; Acceptable Use Policy
+AV; Antivirus
+BC; Business Continuity
+BEC; Business Email Compromise
+BCP; Business Continuity Plan
+BGP; Border Gateway Protocol
+BIA; Business Impact Analysis
+BYOA; Bring Your Own App
+BYOD; Bring Your Own Device
+C2; Command and Control
+CA; Certificate Authority
+CAPEC; Common Attack Pattern Enumerations and Classifications
+CASB; Cloud Access Security Broker
+CCE; Common Configuration Enumeration
+CCPA; California Consumer Privacy Act
+CDN; Content Delivery Network
+CERT; Computer Emergency Response Team
+CHD; Cardholder Data
+CI/CD; Continuous Integration and Continuous Delivery
+CKC; Cyber Kill Chain
+CIS; Center for Internet Security
+COBIT; Control Objectives for Information and Related Technologies
+COPE; Corporate-Owned, Personally Enabled
+CPE; Common Platform Enumeration
+CRL; Certificate Revocation List
+CSIRT; Cybersecurity Incident Response Team
+CSP; Cloud Service Provider
+CSRF; Cross-site Request Forgery
+CTI; Cyber Threat Intelligence
+CVE; Common Vulnerabilities and Exposures
+CVSS; Common Vulnerability Scoring System
+CWE; Common Weakness Enumeration
+DAST; Dynamic Application Security Testing
+DCO; Device Configuration Overlay
+DDoS; Distributed Denial of Service
+DEP; Data Execution Prevention
+DFIR; Digital Forensics and Incident Response
+DKIM; Domain Keys Identified Mail
+DGA; Domain Generation Algorithm
+DLP; Data Loss Prevention
+DMARC; Domain-based Message Authentication, Reporting, and Conformance
+DMZ; Demilitarized Zone
+DNS; Domain Name Service
+DOM; Document Object Model
+DoS; Denial of Service 
+DR; Disaster Recovery
+DRDoS; Distributed Reflected Denial of Service
+DRM; Digital Rights Management
+EDR; Endpoint Detection and Response
+ELK; Elasticsearch, Logstash, Kibana
+EPP; Endpoint Protection Platform
+ERM; Enterprise Risk Management
+ESA; Enterprise Security Architecture
+FIM; File Integrity Monitoring
+FISMA; Federal Information Security Modernization Act
+FPC; Full Packet Capture
+FPGA; Field-programmable Gate Array
+FTA; File Transfer Appliance
+FTK; Forensic Toolkit
+FTP; File Transfer Protocol
+GDB; GNU Debugger
+GDPR; General Data Protection Regulation
+GLBA; The Gramm-Leach-Bliley Act
+GPO; Group Policy Objects
+HIDS; Host-based Intrusion Detection System
+HIPAA; The Health Insurance Portability and Accountability Act
+HIPS; Host-based Intrusion Prevention System
+HPA; Host Protected Area
+HSM; Hardware Security Module
+HTTP; Hypertext Transfer Protocol
+HTTPS; Hypertext Transfer Protocol Secure
+HVA; High Value Asset
+IaC; Infrastructure as Code
+IaaS; Infrastructure as a Service
+IAM; Identity and Access Management
+ICMP; Internet Control Message Protocol
+ICS; Industrial Control System
+IDS; Intrusion Detection System
+IoAs; Indicators of Attack
+IoCs; Indicators of Compromise
+IP; Internet Protocol
+IPS; Intrusion Prevention System
+IR; Incident Response
+ISAC; Information Sharing and Analysis Center
+ISAO; Information Sharing and Analysis Organization
+ISO; International Organization for Standardization
+ITIL; Information Technology Infrastructure Library
+JSON; JavaScript Object Notation
+KEV; Known Exploited Vulnerabilities
+KPIs; Key Performance Indicators
+KRIs; Key Risk Indicators
+LAN; Local Area Network
+LDAPS; Lightweight Directory Access Protocol Secure
+LFI; Local File Inclusion
+LLR; Lessons-Learnt Report
+LLMNR; Link-Local Multicast Name Resolution
+LOI; Letter of Intent
+LOLBins; Living Off the Land Binaries
+MAC; Media Access Control
+MDM; Mobile Device Management
+MDR; Managed Detection and Response
+MEF; Mission Essential Function
+MFA; Multifactor Authentication
+MitM; Man-in-the-Middle
+MOA; Memorandum of Agreement
+MOU; Memorandum of Understanding
+MSF; Metasploit Framework
+MSP; Managed Service Provider
+MSSP; Managed Security Service Provider 
+MTD; Maximum Tolerable Downtime
+MTTC; Mean Time to Contain
+MTTD; Mean Time to Detect
+MTTI; Mean Time to Identify
+MTTR; Mean Time to Repair
+NAC; Network Access Control
+NDA; Non-disclosure Agreement
+NGFW; Next-generation Firewall
+NIDS; Network-based Intrusion Detection System
+NTP; Network Time Protocol
+NVD; National Vulnerability Database
+OCSP; Online Certificate Status Protocol
+OEM; Original Equipment Manufacturer
+OODA; Observe, Orient, Decide, and Act
+OpenVAS; Open Vulnerability Assessment Scanner
+OSSTMM; Open Source Security Testing Methodology Manual 
+OT; Operational Technology
+OVAL; Open Vulnerability and Assessment Language
+OWASP; Open Web Application Security Project
+PAM; Privileged Access Management
+PBF; Primary Business Function
+PCAP; Packet Capture
+PCI DSS; Payment Card Industry Data Security Standard
+PE; Portable Executable
+PHI; Personal Health Information
+PHP; Hypertext Preprocessor
+PIA; Privacy Impact Assessment
+PICERL; Prepare, Identify, Contain, Eradicate, Recover, and Lessons Learned
+PID; Process Identifier
+PII; Personally Identifiable Information
+PKI; Public Key Infrastructure
+PLC; Programmable Logic Controller
+POC; Point of Contact
+PtH; Pass-the-Hash
+PtT; Pass-the-Ticket
+QA; Quality Assurance
+RaaS; Ransomware as a Service
+RCE; Remote Code Execution
+RDP; Remote Desktop Protocol
+REST; Representational State Transfer
+RFI; Remote File Inclusion
+RMM; Remote Monitoring and Management
+ROSI; Return on Security Investment
+RPO; Recovery Point Objective
+RTO; Recovery Time Objective
+RTOS; Real-time Operating System 
+RXSS; Reflected Cross-site Scripting
+SaaS; Software as a Service
+SAML; Security Assertion Markup Language
+SASE; Secure Access Secure Edge 
+SAST; Static Application Security Testing
+SBOM; Software Bill of Materials
+SCADA; Supervisory Control and Data Acquisition
+SCA; Software Composition Analysis
+SCAP; Security Content Automation Protocol
+SDLC; Software Development Life Cycle 
+SDN; Software-defined Networking
+SED; Self-Encrypting Drive 
+SFTP; Secure File Transfer Protocol
+SIEM; Security Information and Event Management
+SLA; Service-level Agreement
+SLE; Single Loss Expectancy
+SLO; Service-level Objective
+SMB; Server Message Block
+S/MIME; Secure/Multipurpose Internet Mail Extensions
+SMTP; Simple Mail Transfer Protocol
+SNMP; Simple Network Management Protocol
+SOAP; Simple Object Access Protocol
+SOAR; Security Orchestration, Automation, and Response
+SoC; System on Chip
+SOC; Security Operations Center
+SOX; The Sarbanes-Oxley Act
+SPAN; Switched Port Analyzer
+SPF; Sender Policy Framework
+SPI; Sensitive Personal Information
+SQL; Structured Query Language
+SSL; Secure Sockets Layer
+SSO; Single Sign-on
+SSRF; Server-side Request Forgery
+STIX; Structured Threat Information Expression
+SWG; Secure Web Gateway
+TAP; Test Access Port
+TAXII; Trusted Automated eXchange of Intelligence Information
+TCP; Transmission Control Protocol
+TFTP; Trivial File Transfer Protocol
+TLS; Transport Layer Security
+TPM; Trusted Platform Module
+TRACE; Trade Reporting and Compliance Engine
+TTPs; Tactics, Techniques and Procedures
+UEBA; User and Entity Behavior Analytics
+UEFI; Unified Extensible Firmware Interface
+URI; Uniform Resource Identifier
+URL; Uniform Resource Locator
+USB; Universal Serial Bus
+UTC; Coordinated Universal Time
+UTM; Unified Threat Management
+VDI; Virtual Desktop Infrastructure
+VLAN; Virtual LAN
+VM; Virtual Machine
+VMI; Virtual Machine Introspection
+VNC; Virtual Network Computing
+VPC; Virtual Private Cloud
+VPN; Virtual Private Network
+V&V; Verification and Validation
+WAF; Web Application Firewall
+WAN; Wide Area Network
+WMI; Windows Management Instrumentation
+WRT; Work Recovery Time
+XCCDF; Extensible Configuration Checklist Description Format
+XDR; Extended Detection and Response
+XML; Extensible Markup Language
+XSS; Cross-site Scripting
+XXE; XML External Entity
+YARA; Yet Another Ridiculous Acronym
+ZAP; Zed Attack Proxy
+ZTNA; Zero Trust Network Access
